@@ -82,7 +82,7 @@ const Navbar = () => {
               alt="logo"
               className="h-8 w-8"
             />
-            <span className="text-2xl">IG Downloader</span>
+            <span className="text-2xl">IGD JISSHU</span>
           </div>
           {/* Mobile Nav Button */}
           <IconButton
